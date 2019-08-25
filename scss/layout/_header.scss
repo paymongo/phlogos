@@ -127,6 +127,14 @@ header {
         // top: 22vh;
         bottom: 0;
         margin-bottom: 80px;
+        & a {
+            color: inherit;
+            text-decoration-color: $col-orange-1;
+
+            &:hover{
+                text-decoration-color: inherit;
+            }
+        }
     }
     .contribute {
         position: absolute;
