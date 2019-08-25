@@ -1,0 +1,60 @@
+[
+	{
+		"title": "Ayala Land",
+		"filename": "ayala_land",
+		"category": [
+			"Real Estate"
+		]
+	},
+	{
+		"title": "Coins.ph",
+		"filename": "coins",
+		"category": [
+			"Transportation"
+		]
+	},
+	{
+		"title": "Grab",
+		"filename": "grab",
+		"category": [
+			"Transportation"
+		]
+	},
+	{
+		"title": "PayMongo",
+		"filename": "paymongo",
+		"category": [
+			"Banking",
+			"Financial Services"
+		]
+	},
+	{
+		"title": "PLDT",
+		"filename": "pldt",
+		"category": [
+			"Telecommunications"
+		]
+	},
+	{
+		"title": "San Miguel Corporation",
+		"filename": "san_miguel",
+		"category": [
+			"Conglomerate"
+		]
+	},
+	{
+		"title": "SM",
+		"filename": "sm",
+		"category": [
+			"Conglomerate"
+		]
+	},
+	{
+		"title": "UnionBank",
+		"filename": "unionbank",
+		"category": [
+			"Banking",
+			"Financial Services"
+		]
+	}
+]

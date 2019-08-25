@@ -1,0 +1,24 @@
+{
+  "name": "phlogos",
+  "version": "1.0.0",
+  "description": "an open source website for downloading high quality",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss/main.scss -o css/",
+    "build": "node-sass scss/main.scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paymongo/phlogos.git"
+  },
+  "author": "Francis Plaza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paymongo/phlogos/issues"
+  },
+  "homepage": "https://github.com/paymongo/phlogos#readme",
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
