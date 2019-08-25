@@ -1,5 +1,20 @@
 [
 	{
+		"title": "2GO",
+		"filename": "2go",
+		"category": [
+			"Transportation",
+			"Logistics"
+		]
+	},
+	{
+		"title": "ABS-CBN",
+		"filename": "abs_cbn",
+		"category": [
+			"Broadcasting"
+		]
+	},
+	{
 		"title": "Ayala Land",
 		"filename": "ayala_land",
 		"category": [
@@ -7,10 +22,33 @@
 		]
 	},
 	{
+		"title": "BPI",
+		"filename": "bpi",
+		"category": [
+			"Banking",
+			"Financial Services"
+		]
+	},
+	{
+		"title": "Cebu Pacific",
+		"filename": "cebu_pacific",
+		"category": [
+			"Transportation"
+		]
+	},
+	{
 		"title": "Coins.ph",
 		"filename": "coins",
 		"category": [
-			"Transportation"
+			"Banking",
+			"Financial Services"
+		]
+	},
+	{
+		"title": "Globe",
+		"filename": "globe",
+		"category": [
+			"Telecommunications"
 		]
 	},
 	{
@@ -21,11 +59,33 @@
 		]
 	},
 	{
+		"title": "Meralco",
+		"filename": "meralco",
+		"category": [
+			"Utilities"
+		]
+	},
+	{
+		"title": "Metrobank",
+		"filename": "metrobank",
+		"category": [
+			"Banking",
+			"Financial Services"
+		]
+	},
+	{
 		"title": "PayMongo",
 		"filename": "paymongo",
 		"category": [
 			"Banking",
 			"Financial Services"
+		]
+	},
+	{
+		"title": "Philippine Airlines",
+		"filename": "philippine_airlines",
+		"category": [
+			"Transportation"
 		]
 	},
 	{
@@ -47,6 +107,13 @@
 		"filename": "sm",
 		"category": [
 			"Conglomerate"
+		]
+	},
+	{
+		"title": "Smart",
+		"filename": "smart",
+		"category": [
+			"Telecommunications"
 		]
 	},
 	{
