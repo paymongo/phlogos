@@ -15,10 +15,25 @@
 		]
 	},
 	{
+		"title": "Ayala Corporation",
+		"filename": "ayala",
+		"category": [
+			"Conglomerate"
+		]
+	},
+	{
 		"title": "Ayala Land",
 		"filename": "ayala_land",
 		"category": [
 			"Real Estate"
+		]
+	},
+	{
+		"title": "BDO Unibank",
+		"filename": "bdo",
+		"category": [
+			"Banking",
+			"Financial Services"
 		]
 	},
 	{
@@ -34,6 +49,14 @@
 		"filename": "cebu_pacific",
 		"category": [
 			"Transportation"
+		]
+	},
+	{
+		"title": "China Bank",
+		"filename": "china_bank",
+		"category": [
+			"Banking",
+			"Financial Services"
 		]
 	},
 	{
@@ -56,6 +79,20 @@
 		"filename": "grab",
 		"category": [
 			"Transportation"
+		]
+	},
+	{
+		"title": "GMA Network",
+		"filename": "gma",
+		"category": [
+			"Broadcasting"
+		]
+	},
+	{
+		"title": "Jollibee",
+		"filename": "jollibee",
+		"category": [
+			"Food and Beverages"
 		]
 	},
 	{
@@ -82,6 +119,13 @@
 		]
 	},
 	{
+		"title": "Petron",
+		"filename": "petron",
+		"category": [
+			"Oil and Gas"
+		]
+	},
+	{
 		"title": "Philippine Airlines",
 		"filename": "philippine_airlines",
 		"category": [
@@ -96,10 +140,26 @@
 		]
 	},
 	{
+		"title": "Philippine National Bank",
+		"filename": "pnb",
+		"category": [
+			"Banking",
+			"Financial Services"
+		]
+	},
+	{
 		"title": "San Miguel Corporation",
 		"filename": "san_miguel",
 		"category": [
 			"Conglomerate"
+		]
+	},
+	{
+		"title": "Security Bank",
+		"filename": "security_bank",
+		"category": [
+			"Banking",
+			"Financial Services"
 		]
 	},
 	{
