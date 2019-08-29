@@ -1,187 +1,122 @@
 [
-	{
-		"title": "2GO",
-		"filename": "2go",
-		"category": [
-			"Transportation",
-			"Logistics"
-		]
-	},
-	{
-		"title": "ABS-CBN",
-		"filename": "abs_cbn",
-		"category": [
-			"Broadcasting"
-		]
-	},
-	{
-		"title": "Ayala Corporation",
-		"filename": "ayala",
-		"category": [
-			"Conglomerate"
-		]
-	},
-	{
-		"title": "Ayala Land",
-		"filename": "ayala_land",
-		"category": [
-			"Real Estate"
-		]
-	},
-	{
-		"title": "BDO Unibank",
-		"filename": "bdo",
-		"category": [
-			"Banking",
-			"Financial Services"
-		]
-	},
-	{
-		"title": "BPI",
-		"filename": "bpi",
-		"category": [
-			"Banking",
-			"Financial Services"
-		]
-	},
-	{
-		"title": "Cebu Pacific",
-		"filename": "cebu_pacific",
-		"category": [
-			"Transportation"
-		]
-	},
-	{
-		"title": "China Bank",
-		"filename": "china_bank",
-		"category": [
-			"Banking",
-			"Financial Services"
-		]
-	},
-	{
-		"title": "Coins.ph",
-		"filename": "coins",
-		"category": [
-			"Banking",
-			"Financial Services"
-		]
-	},
-	{
-		"title": "Globe",
-		"filename": "globe",
-		"category": [
-			"Telecommunications"
-		]
-	},
-	{
-		"title": "Grab",
-		"filename": "grab",
-		"category": [
-			"Transportation"
-		]
-	},
-	{
-		"title": "GMA Network",
-		"filename": "gma",
-		"category": [
-			"Broadcasting"
-		]
-	},
-	{
-		"title": "Jollibee",
-		"filename": "jollibee",
-		"category": [
-			"Food and Beverages"
-		]
-	},
-	{
-		"title": "Meralco",
-		"filename": "meralco",
-		"category": [
-			"Utilities"
-		]
-	},
-	{
-		"title": "Metrobank",
-		"filename": "metrobank",
-		"category": [
-			"Banking",
-			"Financial Services"
-		]
-	},
-	{
-		"title": "PayMongo",
-		"filename": "paymongo",
-		"category": [
-			"Banking",
-			"Financial Services"
-		]
-	},
-	{
-		"title": "Petron",
-		"filename": "petron",
-		"category": [
-			"Oil and Gas"
-		]
-	},
-	{
-		"title": "Philippine Airlines",
-		"filename": "philippine_airlines",
-		"category": [
-			"Transportation"
-		]
-	},
-	{
-		"title": "PLDT",
-		"filename": "pldt",
-		"category": [
-			"Telecommunications"
-		]
-	},
-	{
-		"title": "Philippine National Bank",
-		"filename": "pnb",
-		"category": [
-			"Banking",
-			"Financial Services"
-		]
-	},
-	{
-		"title": "San Miguel Corporation",
-		"filename": "san_miguel",
-		"category": [
-			"Conglomerate"
-		]
-	},
-	{
-		"title": "Security Bank",
-		"filename": "security_bank",
-		"category": [
-			"Banking",
-			"Financial Services"
-		]
-	},
-	{
-		"title": "SM",
-		"filename": "sm",
-		"category": [
-			"Conglomerate"
-		]
-	},
-	{
-		"title": "Smart",
-		"filename": "smart",
-		"category": [
-			"Telecommunications"
-		]
-	},
-	{
-		"title": "UnionBank",
-		"filename": "unionbank",
-		"category": [
-			"Banking",
-			"Financial Services"
-		]
-	}
+  {
+    "title": "2GO",
+    "filename": "2go",
+    "category": ["Transportation", "Logistics"]
+  },
+  {
+    "title": "ABS-CBN",
+    "filename": "abs_cbn",
+    "category": ["Broadcasting"]
+  },
+  {
+    "title": "Ayala Corporation",
+    "filename": "ayala",
+    "category": ["Conglomerate"]
+  },
+  {
+    "title": "Ayala Land",
+    "filename": "ayala_land",
+    "category": ["Real Estate"]
+  },
+  {
+    "title": "BDO Unibank",
+    "filename": "bdo",
+    "category": ["Banking", "Financial Services"]
+  },
+  {
+    "title": "BPI",
+    "filename": "bpi",
+    "category": ["Banking", "Financial Services"]
+  },
+  {
+    "title": "Cebu Pacific",
+    "filename": "cebu_pacific",
+    "category": ["Transportation"]
+  },
+  {
+    "title": "China Bank",
+    "filename": "china_bank",
+    "category": ["Banking", "Financial Services"]
+  },
+  {
+    "title": "Globe",
+    "filename": "globe",
+    "category": ["Telecommunications"]
+  },
+  {
+    "title": "Grab",
+    "filename": "grab",
+    "category": ["Transportation"]
+  },
+  {
+    "title": "GMA Network",
+    "filename": "gma",
+    "category": ["Broadcasting"]
+  },
+  {
+    "title": "Jollibee",
+    "filename": "jollibee",
+    "category": ["Food and Beverages"]
+  },
+  {
+    "title": "Meralco",
+    "filename": "meralco",
+    "category": ["Utilities"]
+  },
+  {
+    "title": "Metrobank",
+    "filename": "metrobank",
+    "category": ["Banking", "Financial Services"]
+  },
+  {
+    "title": "PayMongo",
+    "filename": "paymongo",
+    "category": ["Banking", "Financial Services"]
+  },
+  {
+    "title": "Petron",
+    "filename": "petron",
+    "category": ["Oil and Gas"]
+  },
+  {
+    "title": "Philippine Airlines",
+    "filename": "philippine_airlines",
+    "category": ["Transportation"]
+  },
+  {
+    "title": "PLDT",
+    "filename": "pldt",
+    "category": ["Telecommunications"]
+  },
+  {
+    "title": "Philippine National Bank",
+    "filename": "pnb",
+    "category": ["Banking", "Financial Services"]
+  },
+  {
+    "title": "San Miguel Corporation",
+    "filename": "san_miguel",
+    "category": ["Conglomerate"]
+  },
+  {
+    "title": "Security Bank",
+    "filename": "security_bank",
+    "category": ["Banking", "Financial Services"]
+  },
+  {
+    "title": "SM",
+    "filename": "sm",
+    "category": ["Conglomerate"]
+  },
+  {
+    "title": "Smart",
+    "filename": "smart",
+    "category": ["Telecommunications"]
+  },
+  {
+    "title": "UnionBank",
+    "filename": "unionbank",
+    "category": ["Banking", "Financial Services"]
+  }
 ]
