@@ -23,9 +23,7 @@ header {
 		top: 0;
 		width: 35.9vw;
 		min-width: 550px;
-		height: 4.5vh;
 		font-family: inherit;
-		position: absolute;
 		right: 1.5%;
 
 		.search {
@@ -79,8 +77,7 @@ header {
 				-webkit-appearance: none;
 				appearance: none;
 				background-color: $col-orange-1;
-				background-image: url("../images/icons/dropdown_button.svg"),
-					linear-gradient($col-orange-1, $col-orange-1);
+				background-image: url("../images/icons/dropdown_button.svg");
 				background-repeat: no-repeat;
 				background-position: right 0.7em top 50%;
 				background-size: 0.65em auto;
