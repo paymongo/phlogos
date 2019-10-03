@@ -6,7 +6,7 @@
     <link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
-    <link rel="manifest" href="images/site.webmanifest">
+    <link rel="manifest" href="manifest.json">
     <!-- Primary Meta Tags -->
     <title>A free logo library for Philippine companies | PHLogos</title>
     <meta name="title" content="A free logo library for Philippine companies | PHLogos">
@@ -35,6 +35,16 @@
     <meta name="theme-color" content="#E9794A" />
     <meta name="msapplication-navbutton-color" content="#E9794A">
     <meta name="apple-mobile-web-app-status-bar-style" content="#E9794A">
+    <!-- Scripts -->
+    <script>
+        // Check that service workers are supported
+        if ('serviceWorker' in navigator) {
+            // Use the window load event to keep the page load performant
+            window.addEventListener('load', () => {
+            navigator.serviceWorker.register('/service-worker-dist.js');
+            });
+        }
+    </script>
 </head>
 
 <body>
