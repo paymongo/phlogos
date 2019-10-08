@@ -93,32 +93,32 @@ main {
             border-radius: 4px;
             display: flex;
             flex-direction: column;
-            justify-content: center;
-            align-items: center;
-
+            padding: 1em;
+            
             a{
                 color: inherit;
-                transition: all .5s ease-in-out;
+                transition: all 0.15s ease-in-out;
                 font-size: 100%;
+                text-decoration: none;
+                width: 100%;
+                flex-grow: 1;
+                display: flex;
+                align-items: center;
+                justify-content: center;
 
                 &:hover{
                     text-decoration: none;
-                    font-weight: $fw-medium;
-                    color: $col-grey-2;
-                }
-            }
-
-            &--svg, &--png {
-                padding: 20%;
-                display: flex;
-                justify-content: center;
-                align-items: center;
-                transition: transform .15s ease-out;
-
-                &:hover {
                     background-color: #fff;
+                    span {
+                    color: $col-orange-1;
                     transform: scale(1.1);
+                    transform-origin: center;
+                    }
                 }
+                span {
+                    transition: transform 0.15s ease-in-out;
+                    will-change: transform;
+                    }
             }
         }
     }
