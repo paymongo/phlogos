@@ -50,8 +50,6 @@
             text-align: center;
         }
         .heading {
-            height: 45vw;
-
             & .site-logo {
                 left: 5%;
                 transform: translateX(-56%);
@@ -61,11 +59,9 @@
             flex-direction: column;
             justify-content: space-between;
             width: 60vw;
-            height: 10vw;
             min-width: 0;
-            right: 50%;
-            transform: translateX(50%);
-            bottom: 3vw;
+            position: static;
+			margin: 20px auto;
     
             .search {
                 width: 100%;
@@ -97,25 +93,16 @@
             } 
         }
         h1 {
-            top: 10vw;
             text-align: center;
-            left: 50%;
-            transform: translateX(-50%);
         }
     }
 }
 
 @media screen and (max-width: 600px) {
     header{
-        .heading {
-            height: 80vw;
-        }
         .searchbar {
-            bottom: 18vw;
             width: 74vw;
             .search {
-                margin-left: -2%;
-
                 & input {
                     font-size: 16px;
                     padding: .45em 0 .3em 1em;
@@ -134,6 +121,7 @@
         h1 {
             top: 20vw;
             font-size: 16px;
+            min-width: unset;
         }
     }
 }
